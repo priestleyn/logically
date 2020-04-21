@@ -2,7 +2,7 @@
 
 Instructions:
 
-*  Open NLP.ipynb in Google Colab
+*  Open 'Targeted Entity Sentiment.ipynb' in Google Colab
 *  Change the runtime type to GPU
 *  Upload the files from the data directory into the root colab folder i.e. '/content'
 *  Run all cells
