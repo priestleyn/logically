@@ -1,4 +1,4 @@
-# Solution for Logically challenge
+# Solution for challenge
 
 Instructions:
 
